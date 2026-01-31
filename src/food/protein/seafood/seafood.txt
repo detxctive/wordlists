@@ -1,0 +1,8 @@
+salmon
+tuna
+cod
+shrimp
+lobster
+crab
+oyster
+sardine

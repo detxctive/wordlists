@@ -1,0 +1,10 @@
+beef
+chicken
+pork
+lamb
+turkey
+duck
+bacon
+ham
+steak
+sausage

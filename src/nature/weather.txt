@@ -1,0 +1,15 @@
+storm
+hurricane
+tornado
+cyclone
+typhoon
+blizzard
+snow
+rain
+hail
+fog
+mist
+dew
+breeze
+wind
+sun

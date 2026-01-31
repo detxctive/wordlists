@@ -1,0 +1,7 @@
+waterfall
+spring
+geyser
+glacier
+iceberg
+delta
+harbor

@@ -1,0 +1,16 @@
+milk
+cheese
+butter
+cream
+yogurt
+curd
+kefir
+whey
+cheddar
+brie
+gouda
+mozzarella
+parmesan
+ricotta
+feta
+camembert

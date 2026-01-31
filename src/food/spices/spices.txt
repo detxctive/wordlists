@@ -1,0 +1,10 @@
+salt
+sugar
+pepper
+chili
+curry
+soy
+ketchup
+mustard
+mayo
+vinegar

@@ -1,0 +1,10 @@
+sun
+moon
+star
+planet
+comet
+meteor
+aurora
+eclipse
+rainbow
+cloud

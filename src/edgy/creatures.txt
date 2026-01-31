@@ -1,0 +1,15 @@
+vampire
+werewolf
+zombie
+demon
+ghost
+ghoul
+banshee
+witch
+warlock
+hellhound
+shade
+gargoyle
+skeleton
+phantom
+revenant
