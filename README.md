@@ -159,4 +159,4 @@ Use it, modify it, remix it, abuse it.
 
 ---
 
-by mochy, captchaz on OGU
+by detxctive, same on OGU
